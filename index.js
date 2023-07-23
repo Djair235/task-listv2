@@ -1,0 +1,1 @@
+function mouse_entrar(){var e=document.getElementById("div");e.style.background="red",e.innerHTML="CLICOU"}function mouse_sair(){var e=document.getElementById("div");e.style.background="rgb(41, 190, 128)",e.innerHTML="ME CLIQUE"}
